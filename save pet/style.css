@@ -1,0 +1,17 @@
+ul {
+    display: flex;
+    justify-content: center;
+}
+a {
+   padding: 10px;
+   background-color: aqua;
+   text-decoration: none;
+}
+li {
+    background-color: aquamarine;
+    list-style: none;
+     padding: 10px;
+}
+a:hover {
+    background-color: beige;
+}
