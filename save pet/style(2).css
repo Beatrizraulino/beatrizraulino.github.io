@@ -1,0 +1,22 @@
+   ul {
+      display: flex;
+      justify-content: center;
+   }
+
+    a  {
+       padding: 10px;
+       background-color: aquamarine;
+
+    }
+
+    li {
+        background-color: blue;
+        list-style: none;
+        padding: 10px;
+    }
+
+       A:houver {
+        background-color: yellow;
+    }
+
+    
