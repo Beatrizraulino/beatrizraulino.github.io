@@ -1,35 +1,22 @@
+   ul {
+      display: flex;
+      justify-content: center;
+   }
 
-body {
-      margin: 0;
-      font-family: sans-serif;
+    a  {
+       padding: 10px;
+       background-color: aquamarine;
+
     }
 
-    header {
-      background-color: #e41b1b;
-      padding: 10px 0;
+    li {
+        background-color: blue;
+        list-style: none;
+        padding: 10px;
     }
 
-    nav ul {
-      display: flex;              /* Torna os <li> horizontais */
-      list-style: none;           /* Remove os marcadores */
-      margin: 0;
-      padding: 0;
-      justify-content: center;    /* Centraliza os itens no nav */
+       A:houver {
+        background-color: yellow;
     }
 
-    nav ul li {
-      margin: 0 15px;
-    }
-
-    nav ul li a {
-      color: white;
-      text-decoration: none;
-      font-weight: bold;
-      padding: 8px 12px;
-      display: block;
-    }
-
-    nav ul li a:hover {
-      background-color: #864444;
-      border-radius: 4px;
-    }
+    
